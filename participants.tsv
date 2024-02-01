@@ -1,0 +1,101 @@
+participant_id	session_id	dataset_id	rat_strain	rat_sex	rat_weight	rat_age	MRI_vendor	MRI_field_strength	anat_sequence	anat_contrast	anesthesia_temperature	anesthesia_breathing_rate	anesthesia_heart_rate
+sub-300104	ses-1	3001	Long Evans	Female	287	2.9	Bruker	9.4	turboRARE	T2w	36.6/36.6/36.6	50/58/60	n/a
+sub-300106	ses-1	3001	Long Evans	Female	407	4.5	Bruker	9.4	turboRARE	T2w	37.0/36.9/36.9	112/120/124	n/a
+sub-300200	ses-1	3002	Wistar	Male	332.7	2	Bruker	7	turboRARE	T2w	37.3/37.5/37.7	70/75/76	n/a
+sub-300201	ses-1	3002	Wistar	Male	325	2	Bruker	7	turboRARE	T2w	36.6/36.8/36.8	65/67/68	n/a
+sub-300204	ses-1	3002	Wistar	Male	354.7	2	Bruker	7	turboRARE	T2w	36.3/36.3/36.3	66/68/70	n/a
+sub-300205	ses-1	3002	Wistar	Female	216.6	2	Bruker	7	turboRARE	T2w	36.3/36.4/36.8	56/60/61	n/a
+sub-300206	ses-1	3002	Wistar	Female	185	2	Bruker	7	turboRARE	T2w	36.6/36.8/37.0	56/55/56	n/a
+sub-300301	ses-1	3003	Wistar	Male	366	2	Clinscan	7	TSE	T2w	35.5	53	n/a
+sub-300306	ses-1	3003	Wistar	Female	227	2	Clinscan	7	TSE	T2w	34.8	32	n/a
+sub-300308	ses-1	3003	Wistar	Female	214	2	Clinscan	7	TSE	T2w	34.7	52	n/a
+sub-300309	ses-1	3003	Wistar	Female	223	2	Clinscan	7	TSE	T2w	34.9	50	n/a
+sub-300400	ses-1	3004	Fischer 344	Female	173	3	Bruker	9.4	turboRARE	T2w	36.8/36.8/37.1	66/67/72	n/a
+sub-300401	ses-1	3004	Fischer 344	Female	165	3	Bruker	9.4	turboRARE	T2w	36.8/37.0/37.3	53/56/56	n/a
+sub-300402	ses-1	3004	Fischer 344	Female	157	3	Bruker	9.4	turboRARE	T2w	36.9/36.8/37.1	57/57/59	n/a
+sub-300403	ses-1	3004	Fischer 344	Female	162	3	Bruker	9.4	turboRARE	T2w	37.2/37.0/36.8	60/59/59	n/a
+sub-300404	ses-1	3004	Fischer 344	Female	159	3	Bruker	9.4	turboRARE	T2w	36.9/37.1/37.4	35/36/37	n/a
+sub-300405	ses-1	3004	Fischer 344	Female	168	3	Bruker	9.4	turboRARE	T2w	36.8/36.8/37.4	61/53/60	n/a
+sub-300406	ses-1	3004	Fischer 344	Female	154	3	Bruker	9.4	turboRARE	T2w	36.7/36.8/37.5	56/56/61	n/a
+sub-300407	ses-1	3004	Fischer 344	Female	162	3	Bruker	9.4	turboRARE	T2w	36.8/37.0/na	31/34/na	n/a
+sub-300500	ses-1	3005	Wistar	Female	215	n/a	Bruker	17.2	turboRARE	T2w	36.4	38	n/a
+sub-300501	ses-1	3005	Wistar	Male	265	n/a	Bruker	17.2	turboRARE	T2w	36.8	68	n/a
+sub-300503	ses-1	3005	Wistar	Male	270	n/a	Bruker	17.2	turboRARE	T2w	36.8	70	n/a
+sub-300506	ses-1	3005	Wistar	Female	215	n/a	Bruker	17.2	turboRARE	T2w	36.6	46	n/a
+sub-300508	ses-1	3005	Wistar	Female	235	n/a	Bruker	17.2	turboRARE	T2w	36	38	n/a
+sub-300601	ses-1	3006	Wistar	Female	214	n/a	Agilent/Bruker	14	turboRARE	T2w	37.8	55	n/a
+sub-300602	ses-1	3006	Wistar	Male	281	n/a	Agilent/Bruker	14	turboRARE	T2w	37.8	42	n/a
+sub-300603	ses-1	3006	Wistar	Female	240	n/a	Agilent/Bruker	14	turboRARE	T2w	37.7	70	n/a
+sub-300605	ses-1	3006	Wistar	Female	231	n/a	Agilent/Bruker	14	turboRARE	T2w	37.7	45	n/a
+sub-300606	ses-1	3006	Wistar	Male	323	n/a	Agilent/Bruker	14	turboRARE	T2w	37.7	53	n/a
+sub-300608	ses-1	3006	Wistar	Male	358	n/a	Agilent/Bruker	14	turboRARE	T2w	37.5	50	n/a
+sub-300609	ses-1	3006	Wistar	Male	348	n/a	Agilent/Bruker	14	turboRARE	T2w	37.9	65	n/a
+sub-300700	ses-1	3007	Wistar	Male	328	2	Bruker	9.4	turboRARE	T2w	n/a	53/58/56	466/477/480
+sub-300701	ses-1	3007	Wistar	Male	300	2	Bruker	9.4	turboRARE	T2w	36/36.2/36.4	71/71/75	268/281/295
+sub-300703	ses-1	3007	Wistar	Male	314	2	Bruker	9.4	turboRARE	T2w	35.3/35.6/36.0	59/59/63	250/267/278
+sub-300705	ses-1	3007	Wistar	Female	232	2	Bruker	9.4	turboRARE	T2w	36/36.3/36.7	46/48/46	287/301/312
+sub-300706	ses-1	3007	Wistar	Female	202	2	Bruker	9.4	turboRARE	T2w	36.5/36.8/37.1	34/34/35	267/280/286
+sub-300709	ses-1	3007	Wistar	Female	230	2	Bruker	9.4	turboRARE	T2w	36.7/36.8/37.0	56/60/55	312/317/321
+sub-300802	ses-1	3008	Wistar	Male	330	2	Varian	9.4	TSE	T2w	n/a	n/a	n/a
+sub-300805	ses-1	3008	Wistar	Female	180.4	2	Varian	9.4	TSE	T2w	n/a	n/a	n/a
+sub-300806	ses-1	3008	Wistar	Female	219	2	Varian	9.4	TSE	T2w	n/a	n/a	n/a
+sub-300809	ses-1	3008	Wistar	Female	203.3	2	Varian	9.4	TSE	T2w	n/a	n/a	n/a
+sub-300902	ses-1	3009	Wistar	Female	221	4	Bruker	9.4	turboRARE	T2w	37.2/37.2/37.2	53/59/64	252/249/246
+sub-300906	ses-1	3009	Wistar	Male	302	4	Bruker	9.4	turboRARE	T2w	37.1/36.9/36.9	64/77/78	314/312/308
+sub-300907	ses-1	3009	Wistar	Male	285	4	Bruker	9.4	turboRARE	T2w	37.2/37/37	50/86/73	305/296/286
+sub-300909	ses-1	3009	Wistar	Female	213	4	Bruker	9.4	turboRARE	T2w	37/37/37	43/47/52	268/268/261
+sub-301000	ses-1	3010	Wistar	Female	244	n/a	Bruker	9.4	turboRARE	T2w	37.1/37.3/37.4	55/51/52	346/348/343
+sub-301001	ses-1	3010	Wistar	Male	273	n/a	Bruker	9.4	turboRARE	T2w	37/37.1/37.4	46/48/50	270/275/285
+sub-301003	ses-1	3010	Wistar	Male	280	n/a	Bruker	9.4	turboRARE	T2w	37.5/37.4/37.3	60/65/64	286/291/283
+sub-301006	ses-1	3010	Wistar	Female	234	n/a	Bruker	9.4	turboRARE	T2w	36.7/36.7/36.8	38/38/38	262/261/257
+sub-301008	ses-1	3010	Wistar	Female	240	n/a	Bruker	9.4	turboRARE	T2w	37/37/37	52/54/55	246/245/250
+sub-301009	ses-1	3010	Wistar	Female	231	n/a	Bruker	9.4	turboRARE	T2w	36.6/36.3/36.6	44/42/44	231/238/246
+sub-301102	ses-1	3011	Wistar	Female	222	2	Bruker	7	turboRARE	T2w	33.9/33.6	58/51	n/a
+sub-301105	ses-1	3011	Wistar	Male	422	3	Bruker	7	turboRARE	T2w	36.1/35.5	48/69	n/a
+sub-301109	ses-1	3011	Wistar	Male	282	2	Bruker	7	turboRARE	T2w	35.6/35.3	50/65	n/a
+sub-301200	ses-1	3012	Wistar	Male	280	1.5	Bruker	4.7	RARE	T2w	36.2/35.2	75/45/43	n/a
+sub-301205	ses-1	3012	Wistar	Male	240	1.5	Bruker	4.7	RARE	T2w	36.1/34.5	36/50/50	n/a
+sub-301206	ses-1	3012	Wistar	Male	250	1.5	Bruker	4.7	RARE	T2w	36.2/34.0	70/40/40	n/a
+sub-301208	ses-1	3012	Wistar	Male	276	1.5	Bruker	4.7	RARE	T2w	37.0/34.7	68/40/40	n/a
+sub-301209	ses-1	3012	Wistar	Male	270	1.5	Bruker	4.7	RARE	T2w	35.5/34.1	70/42/43	n/a
+sub-301300	ses-1	3013	Wistar	Male	282	n/a	Bruker	9.4	turboRARE	T2w	n/a	60/55/48	n/a
+sub-301301	ses-1	3013	Wistar	Male	275	n/a	Bruker	9.4	turboRARE	T2w	n/a	80/50/50	n/a
+sub-301303	ses-1	3013	Wistar	Male	294	n/a	Bruker	9.4	turboRARE	T2w	n/a	50/50/50	n/a
+sub-301306	ses-1	3013	Wistar	Male	291	n/a	Bruker	9.4	turboRARE	T2w	n/a	40/45/40	n/a
+sub-301400	ses-1	3014	Wistar	Male	239	2.5	Bruker	9.4	turboRARE	T2w	36.1	50	300
+sub-301401	ses-1	3014	Wistar	Male	235	2.5	Bruker	9.4	turboRARE	T2w	36.1	65	280
+sub-301404	ses-1	3014	Wistar	Male	304	2.5	Bruker	9.4	turboRARE	T2w	36.5	53	310
+sub-301406	ses-1	3014	Wistar	Male	309	2.5	Bruker	9.4	turboRARE	T2w	35.5	40	290
+sub-301407	ses-1	3014	Wistar	Female	252	2.5	Bruker	9.4	turboRARE	T2w	36	32	268
+sub-301408	ses-1	3014	Wistar	Female	254	2.5	Bruker	9.4	turboRARE	T2w	37	42	280
+sub-301501	ses-1	3015	Wistar	Male	408	4	Bruker	7	turboRARE	T2w	n/a	74	n/a
+sub-301505	ses-1	3015	Wistar	Female	219	4	Bruker	7	turboRARE	T2w	n/a	71	n/a
+sub-301508	ses-1	3015	Wistar	Female	213	4	Bruker	7	turboRARE	T2w	n/a	71	n/a
+sub-301601	ses-1	3016	Wistar	Male	243	1	Bruker	7	turboRARE	T2w	33.8/33.8/33.9	63/62/63	390396/392/394
+sub-301602	ses-1	3016	Wistar	Male	239	1	Bruker	7	turboRARE	T2w	35.8/35.8/35.7	38/36/36	260/257/254
+sub-301603	ses-1	3016	Wistar	Male	235	1	Bruker	7	turboRARE	T2w	35.1/35.1/35.1	47/50/52	390/395/400
+sub-301604	ses-1	3016	Wistar	Male	233	1	Bruker	7	turboRARE	T2w	35	42	313
+sub-301605	ses-1	3016	Wistar	Male	231	1	Bruker	7	turboRARE	T2w	34.8/34/36	32/34/36	229/231/291
+sub-301608	ses-1	3016	Wistar	Male	208	1	Bruker	7	turboRARE	T2w	35.2/34.8/34.8	40/42/40	240/246/251
+sub-301700	ses-1	3017	Wistar	Female	298	n/a	Bruker	7	turboRARE	T2w	35.2	35	n/a
+sub-301701	ses-1	3017	Wistar	Female	296	n/a	Bruker	7	turboRARE	T2w	35.8	43	n/a
+sub-301702	ses-1	3017	Wistar	Female	195	n/a	Bruker	7	turboRARE	T2w	n/a	44	n/a
+sub-301703	ses-1	3017	Wistar	Female	316	n/a	Bruker	7	turboRARE	T2w	36.3	32	n/a
+sub-301704	ses-1	3017	Wistar	Female	304	n/a	Bruker	7	turboRARE	T2w	36.1	50	n/a
+sub-301705	ses-1	3017	Wistar	Female	175	n/a	Bruker	7	turboRARE	T2w	36.6	42	n/a
+sub-301706	ses-1	3017	Wistar	Female	238	n/a	Bruker	7	turboRARE	T2w	37.2	37	n/a
+sub-301803	ses-1	3018	Wistar	Male	286	2.5	Bruker	7	turboRARE	T2w	35.9/35.8	62/62	n/a
+sub-301804	ses-1	3018	Wistar	Male	278	2.5	Bruker	7	turboRARE	T2w	35.9/35.7	52/50	n/a
+sub-301805	ses-1	3018	Wistar	Male	284	2.5	Bruker	7	turboRARE	T2w	36/35.8	54/58	n/a
+sub-301807	ses-1	3018	Wistar	Male	280	2.5	Bruker	7	turboRARE	T2w	34.3/34.2	55/54	n/a
+sub-301808	ses-1	3018	Wistar	Male	288	2.5	Bruker	7	turboRARE	T2w	34.8/34.5	43/43	n/a
+sub-301901	ses-1	3019	Wistar	Male	270	2	Bruker	9.4	turboRARE	T2w	36.6	72	303
+sub-301902	ses-1	3019	Wistar	Male	280	2	Bruker	9.4	turboRARE	T2w	35.6	53	267
+sub-301903	ses-1	3019	Wistar	Male	281	2	Bruker	9.4	turboRARE	T2w	35.1	42	316
+sub-301907	ses-1	3019	Wistar	Male	302	2	Bruker	9.4	turboRARE	T2w	37	54	289
+sub-302004	ses-1	3020	Wistar	Male	330	2	Bruker	9.4	turboRARE	T2w	36.3	62	257
+sub-302006	ses-1	3020	Wistar	Male	403	2	Bruker	9.4	turboRARE	T2w	37.8	73	288
+sub-302007	ses-1	3020	Wistar	Male	389	2	Bruker	9.4	turboRARE	T2w	37.1	47	285
+sub-302009	ses-1	3020	Wistar	Male	364	2	Bruker	9.4	turboRARE	T2w	37	50	277
+sub-302100	ses-1	3021	Wistar	Female	243	n/a	Bruker	7	turboRARE	T2w	n/a	30	n/a
+sub-302105	ses-1	3021	Wistar	Male	289	n/a	Bruker	7	turboRARE	T2w	n/a	46	n/a
