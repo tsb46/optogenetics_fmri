@@ -130,7 +130,7 @@ dmypy.json
 .pyre/
 
 # Data and result folders
-data/*/
+/data
 
 # .asv files output from matlab
 *.asv
