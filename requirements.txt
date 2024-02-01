@@ -1,1 +1,2 @@
-rabies==0.5.0
+pandas==2.2.0
+openneuro-py==2024.1.0
